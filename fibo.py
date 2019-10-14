@@ -18,6 +18,6 @@ def fibo(n):
             time.sleep(1)
 
 
-n = int(input("number please: "))
+n = int(input("Insert the number: "))
 
 fibo(n)
